@@ -16,7 +16,7 @@ public class aula4sc {
 		y = sc.nextInt();
 	    z = sc.nextDouble();
 	    
-		System.out.println("Dados digitados:");
+		System.out.println("Dados exibidos:");
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println(z);
